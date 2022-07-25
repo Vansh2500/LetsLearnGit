@@ -7,4 +7,5 @@ int main(){
     cout<<*root<<endl;
     cout<<root<<endl;
     cout<<&var<<endl;
+    //
 }
